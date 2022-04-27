@@ -10,14 +10,7 @@ body{
 background: #44a4ed;    
 }
 .cardCounter{
-    margin:auto;
-    height: 45vh;
-    width: 50%;
-    position:fixed;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
+    width: 15em;
     background:#f1f8f8; 
     border-radius: 25px;
     box-shadow: 10px 15px #f1f;
@@ -38,7 +31,7 @@ background: #44a4ed;
 
 .buttons button{
     padding: 10px;
-    margin: 3px;
+    margin: 5px;
     border-radius: 10px;
     border: 0;
     outline: 0; 
